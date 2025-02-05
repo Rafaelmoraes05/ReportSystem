@@ -106,6 +106,6 @@ CREATE TABLE reporte (
 
 
 
-##📄 Licença
+## 📄 Licença
 Este projeto está sob a licença MIT.
 
